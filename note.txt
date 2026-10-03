@@ -1,0 +1,5 @@
+pip freeze > req.txt
+pip install -r req.txt
+
+Статьи по pytest:
+1) https://practicum.yandex.ru/blog/pytest-testirovanie-prilozhenij-na-python/
